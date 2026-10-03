@@ -29,7 +29,7 @@ from aiogram.types import (
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8316636621:AAEhVz2E_O3DTWfRZVGvmd1HClfZvlK8eMU")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "@shop_bot")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "@OBITOx_STORE_bot")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "8259869459") or 0)
 SECOND_ADMIN_ID = int(os.getenv("SECOND_ADMIN_ID", "8259869459") or 0)
 ADMIN_CONTACT = os.getenv("ADMIN_CONTACT", "")
